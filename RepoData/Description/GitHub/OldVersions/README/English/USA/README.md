@@ -1,0 +1,1 @@
+🍏️🖥️[🇴.🇸]1️⃣️5️⃣️💾️ The official source repository/separate repository for the archival and development of WacOS 15.x, an open source remake of MacOS Sequoia (15.x) Written in C, Assembly, Swift, and Objective-C. Part of the WacOS operating system project. 
